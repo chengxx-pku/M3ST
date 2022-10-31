@@ -5,7 +5,7 @@
 This repository contains the PyTorch implementation and the data of the paper: 
 > **M3ST: MIX AT THREE LEVELS FOR SPEECH TRANSLATION** 
 >
-> Xuxin Cheng, [Qianqian Dong](https://scholar.google.com/citations?user=OW3I1SYAAAAJ&hl=zh-CN&oi=ao), Fengpeng Yue, [Tom Ko](https://scholar.google.com/citations?hl=zh-CN&user=26-lhTQAAAAJ), [Mingxuan Wang](https://scholar.google.com/citations?hl=zh-CN&user=hOQ6G6EAAAAJ), [Yuexian Zou](https://scholar.google.com/citations?user=sfyr7zMAAAAJ&hl=zh-CN&oi=ao)
+> Xuxin Cheng, [Qianqian Dong](https://scholar.google.com/citations?user=OW3I1SYAAAAJ&hl=zh-CN&oi=ao), Fengpeng Yue, [Tom Ko](https://scholar.google.com/citations?hl=zh-CN&user=26-lhTQAAAAJ), [Mingxuan Wang](https://scholar.google.com/citations?hl=zh-CN&user=hOQ6G6EAAAAJ), [Yuexian Zou](https://scholar.google.com/citations?user=ES8dGKUAAAAJ&hl=zh-CN)
 > 
 > ***ICASSP2023 [Under review]***.
 
